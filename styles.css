@@ -2,3 +2,17 @@
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
+* {
+  font-family: "Lato", sans-serif;
+}
+
+.header_div {
+  padding-bottom: 1rem;
+}
+.heading_paragraph {
+  text-indent: 2rem;
+}
+.heading_paragraph span {
+  font-weight: 700;
+  font-style: italic;
+}
